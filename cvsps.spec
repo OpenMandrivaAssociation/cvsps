@@ -7,7 +7,6 @@ Group:          Development/Other
 License:        GPL
 URL:            http://www.cobite.com/cvsps/
 Source0:        http://www.cobite.com/cvsps/%{name}-%{version}.tar.bz2
-BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root
 
 BuildRequires:  zlib-devel
 # Requires cvs only with --no-cvs-direct, but I cannot imagine this dep
