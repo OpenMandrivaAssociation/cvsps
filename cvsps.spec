@@ -1,6 +1,6 @@
 Name:           cvsps
 Version:        2.1
-Release:        %mkrel 5
+Release:        %mkrel 6
 Summary:        Patchset tool for CVS
 
 Group:          Development/Other
