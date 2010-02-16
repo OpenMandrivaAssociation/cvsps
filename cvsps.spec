@@ -1,14 +1,12 @@
 Name:           cvsps
-Version:        2.1
-Release:        %mkrel 6
+Version:        2.2b1
+Release:        %mkrel 1
 Summary:        Patchset tool for CVS
-
 Group:          Development/Other
-License:        GPL
+License:        GPLv3
 URL:            http://www.cobite.com/cvsps/
 Source0:        http://www.cobite.com/cvsps/%{name}-%{version}.tar.bz2
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root
-
 BuildRequires:  zlib-devel
 # Requires cvs only with --no-cvs-direct, but I cannot imagine this dep
 # being a problem on systems where cvsps will be installed...
