@@ -1,6 +1,6 @@
 Name:           cvsps
 Version:        2.2b1
-Release:        3
+Release:        4
 Summary:        Patchset tool for CVS
 Group:          Development/Other
 License:        GPLv3
