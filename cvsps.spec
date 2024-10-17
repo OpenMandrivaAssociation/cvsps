@@ -4,7 +4,7 @@ Release:        6
 Summary:        Patchset tool for CVS
 Group:          Development/Other
 License:        GPLv3
-URL:            http://www.cobite.com/cvsps/
+URL:            https://www.cobite.com/cvsps/
 Source0:        http://www.cobite.com/cvsps/%{name}-%{version}.tar.gz
 BuildRequires:  zlib-devel
 # Requires cvs only with --no-cvs-direct, but I cannot imagine this dep
